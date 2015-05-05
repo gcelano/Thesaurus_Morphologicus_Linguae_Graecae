@@ -6,7 +6,7 @@
     <gnt>ending of the genitive of the noun</gnt>
     <gnd>gender, signalled by the article</gnd>
     <dcl>declension</dcl>
-    <base>base of the noun (without any diacritic)</base>
+    <bse>base of the noun (without any diacritic)</bse>
     <ending>ending of the nominative of the noun</ending>
   </legenda>
   <l id="n16" key="ἄανθα" key2="ἄανθα" gnt="ας" gnd="ἡ" dcl="1" bse="ἀανθ" end="α"/>

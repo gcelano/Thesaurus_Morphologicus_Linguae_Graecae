@@ -6,7 +6,7 @@
     <gnt>ending of the genitive of the noun</gnt>
     <gnd>gender, signalled by the article</gnd>
     <dcl>declension</dcl>
-    <bse>base of the noun (without any diacritic)</bse>
+    <base>base of the noun (without any diacritic)</base>
     <ending>ending of the nominative of the noun</ending>
   </legenda>
   <l id="n16" key="ἄανθα" key2="ἄανθα" gnt="ας" gnd="ἡ" dcl="1" bse="ἀανθ" end="α"/>
@@ -1136,8 +1136,6 @@
   <l id="n10548" key="ἀντισυζυγία" key2="ἀντισυζυγία" gnt="ας" gnd="ἡ" dcl="1" bse="ἀντισυζυγι" end="α"/>
   <l id="n10577" key="ἀντιταμίας" key2="ἀντιταμίας" gnt="ου" gnd="ὁ" dcl="1" bse="ἀντιταμι" end="ας"/>
   <l id="n10595" key="ἀντιτεχνίτης" key2="ἀντιτεχνίτης" gnt="ου" gnd="ὁ" dcl="1" bse="ἀντιτεχνιτ" end="ης"/>
-  <l id="n10600" key="ἀντιτίμημα" key2="ἀντιτίμημα" gnt="ης" gnd="ἡ" dcl="1" bse="ἀντιτιμημ" end="α"/>
-  <l id="n10603" key="ἀντιτιμώρημα" key2="ἀντιτιμώρημα" gnt="ης" gnd="ἡ" dcl="1" bse="ἀντιτιμωρημ" end="α"/>
   <l id="n10630" key="ἀντιτυπία" key2="ἀντιτυπία" gnt="ας" gnd="ἡ" dcl="1" bse="ἀντιτυπι" end="α"/>
   <l id="n10640" key="ἀντιφάρα" key2="ἀντιφάρα" gnt="ας" gnd="ἡ" dcl="1" bse="ἀντιφαρ" end="α"/>
   <l id="n10655" key="ἀντιφιλία" key2="ἀντιφιλία" gnt="ας" gnd="ἡ" dcl="1" bse="ἀντιφιλι" end="α"/>
@@ -1203,7 +1201,6 @@
   <l id="n11230" key="ἀπαιδία" key2="ἀπαιδία" gnt="ας" gnd="ἡ" dcl="1" bse="ἀπαιδι" end="α"/>
   <l id="n11239" key="ἀπαιοθήκη" key2="ἀπαιοθήκη" gnt="ης" gnd="ἡ" dcl="1" bse="ἀπαιοθηκ" end="η"/>
   <l id="n11241" key="ἀπαιόλη" key2="ἀπαιόλη" gnt="ης" gnd="ἡ" dcl="1" bse="ἀπαιολ" end="η"/>
-  <l id="n11242" key="ἀπαιόλημα" key2="ἀπαιόλημα" gnt="ης" gnd="ἡ" dcl="1" bse="ἀπαιολημ" end="α"/>
   <l id="n11255" key="ἀπαιτητής" key2="ἀπαιτητής" gnt="οῦ" gnd="ὁ" dcl="1" bse="ἀπαιτητ" end="ής"/>
   <l id="n11263" key="ἀπακμή" key2="ἀπακμή" gnt="ῆς" gnd="ἡ" dcl="1" bse="ἀπακμ" end="ή"/>
   <l id="n11294" key="ἁπαλία" key2="ἁπαλία" gnt="ας" gnd="ἡ" dcl="1" bse="ἁπαλι" end="α"/>
@@ -2719,7 +2716,7 @@
   <l id="n56520" key="κελοῖα" key2="κελοῖα" gnt="ας" gnd="ἡ" dcl="1" bse="κελοι" end="α"/>
   <l id="n56543" key="κεναγγία" key2="κεναγγία" gnt="ας" gnd="ἡ" dcl="1" bse="κεναγγι" end="α"/>
   <l id="n56544" key="κενανδρία" key2="κενανδρία" gnt="ας" gnd="ἡ" dcl="1" bse="κενανδρι" end="α"/>
-  <l id="n56547" key="κένδυλα" key2="κένδυλα" gnt="ης" gnd="ἡ" dcl="1" bse="κενδυλ" end="α"/>
+  <l id="n56547" key="κένδυλα" key2="κένδυλα" gnt="ης" gnd="τά" dcl="1" bse="κενδυλ" end="α"/>
   <l id="n56550" key="κενεαγγίη" key2="κενεαγγίη" gnt="ης" gnd="ἡ" dcl="1" bse="κενεαγγι" end="η"/>
   <l id="n56552" key="κενεαγορία" key2="κενεαγορία" gnt="ας" gnd="ἡ" dcl="1" bse="κενεαγορι" end="α"/>
   <l id="n56563" key="κενεοφροσύνη" key2="κενεοφροσύνη" gnt="ης" gnd="ἡ" dcl="1" bse="κενεοφροσυν" end="η"/>
@@ -3677,7 +3674,7 @@
   <l id="n63968" key="λοχαγία" key2="λοχαγία" gnt="ας" gnd="ἡ" dcl="1" bse="λοχαγι" end="α"/>
   <l id="n63974" key="λοχεία" key2="λοχεία" gnt="ας" gnd="ἡ" dcl="1" bse="λοχει" end="α"/>
   <l id="n63978" key="λοχεύτρια" key2="λοχεύτρια" gnt="ας" gnd="ἡ" dcl="1" bse="λοχευτρι" end="α"/>
-  <l id="n63984" key="λόχια" key2="λόχια" gnt="ας" gnd="ἡ" dcl="1" bse="λοχι" end="α"/>
+  <l id="n63984" key="λόχια" key2="λόχια" gnt="ας" gnd="τά" dcl="1" bse="λοχι" end="α"/>
   <l id="n63994" key="λόχμη" key2="λόχμη" gnt="ης" gnd="ἡ" dcl="1" bse="λοχμ" end="η"/>
   <l id="n64019" key="λυγέα" key2="λυγέα" gnt="ας" gnd="ἡ" dcl="1" bse="λυγε" end="α"/>
   <l id="n64048" key="Λυδία" key2="Λυδία" gnt="ας" gnd="ἡ" dcl="1" bse="Λυδι" end="α"/>
@@ -4984,7 +4981,7 @@
   <l id="n73942" key="ὀμφακίτης" key2="ὀμφακίτης" gnt="ου" gnd="ὁ" dcl="1" bse="ὀμφακιτ" end="ης"/>
   <l id="n73949" key="ὀμφαλητομία" key2="ὀμφαλητομία" gnt="ας" gnd="ἡ" dcl="1" bse="ὀμφαλητομι" end="α"/>
   <l id="n73965" key="ὀμφή" key2="ὀμφή" gnt="ῆς" gnd="ἡ" dcl="1" bse="ὀμφ" end="ή"/>
-  <l id="n73969" key="ὄμφορα" key2="ὄμφορα" gnt="ας" gnd="ἡ" dcl="1" bse="ὀμφορ" end="α"/>
+  <l id="n73969" key="ὄμφορα" key2="ὄμφορα" gnt="ας" gnd="ὁ" dcl="1" bse="ὀμφορ" end="α"/>
   <l id="n73972" key="ὁμωνυμία" key2="ὁμωνυμία" gnt="ας" gnd="ἡ" dcl="1" bse="ὁμωνυμι" end="α"/>
   <l id="n73981" key="ὁμωχέτας" key2="ὁμωχέτας" gnt="ου" gnd="ὁ" dcl="1" bse="ὁμωχετ" end="ας"/>
   <l id="n73984" key="ὀνάγρα" key2="ὀνάγρα" gnt="ας" gnd="ἡ" dcl="1" bse="ὀναγρ" end="α"/>
@@ -6908,7 +6905,7 @@
   <l id="n20179" key="βόα" key2="βόα" gnt="ας" gnd="ἡ" dcl="1" bse="βο" end="α"/>
   <l id="n20190" key="βοαρμία" key2="βοαρμία" gnt="ας" gnd="ἡ" dcl="1" bse="βοαρμι" end="α"/>
   <l id="n20200" key="βοή" key2="βοή" gnt="ῆς" gnd="ἡ" dcl="1" bse="βο" end="ή"/>
-  <l id="n20202" key="βοήγια" key2="βοήγια" gnt="ας" gnd="ἡ" dcl="1" bse="βοηγι" end="α"/>
+  <l id="n20202" key="βοήγια" key2="βοήγια" gnt="ας" gnd="τά" dcl="1" bse="βοηγι" end="α"/>
   <l id="n20207" key="βοηδρομίη" key2="βοηδρομίη" gnt="ης" gnd="ἡ" dcl="1" bse="βοηδρομι" end="η"/>
   <l id="n20212" key="βοήθεια" key2="βοήθεια" gnt="ας" gnd="ἡ" dcl="1" bse="βοηθει" end="α"/>
   <l id="n20222" key="βοηθοῦρα" key2="βοηθοῦρα" gnt="ας" gnd="ἡ" dcl="1" bse="βοηθουρ" end="α"/>
@@ -7652,7 +7649,6 @@
   <l id="n96879" key="στιχομυθία" key2="στιχομυθία" gnt="ας" gnd="ἡ" dcl="1" bse="στιχομυθι" end="α"/>
   <l id="n96880" key="στιχοπλανήτης" key2="στιχοπλανήτης" gnt="ου" gnd="ὁ" dcl="1" bse="στιχοπλανητ" end="ης"/>
   <l id="n96883" key="στιχοποιία" key2="στιχοποιία" gnt="ας" gnd="ἡ" dcl="1" bse="στιχοποιι" end="α"/>
-  <l id="n96886" key="στιχούργημα" key2="στιχούργημα" gnt="ης" gnd="ἡ" dcl="1" bse="στιχουργημ" end="α"/>
   <l id="n96901" key="στοά" key2="στοά" gnt="ᾶς" gnd="ἡ" dcl="1" bse="στο" end="ά"/>
   <l id="n96902" key="στοαοροφή" key2="στοαοροφή" gnt="ῆς" gnd="ἡ" dcl="1" bse="στοαοροφ" end="ή"/>
   <l id="n96910" key="στοιβασία" key2="στοιβασία" gnt="ας" gnd="ἡ" dcl="1" bse="στοιβασι" end="α"/>
@@ -9921,7 +9917,7 @@
   <l id="n21362" key="Γαγάτης" key2="Γαγάτης" gnt="ου" gnd="ὁ" dcl="1" bse="Γαγατ" end="ης"/>
   <l id="n21369" key="γαγγαμευτής" key2="γαγγαμευτής" gnt="οῦ" gnd="ὁ" dcl="1" bse="γαγγαμευτ" end="ής"/>
   <l id="n21378" key="γάγγραινα" key2="γάγγραινα" gnt="ας" gnd="ἡ" dcl="1" bse="γαγγραιν" end="α"/>
-  <l id="n21384" key="Γάδαρα" key2="Γάδαρα" gnt="ας" gnd="ἡ" dcl="1" bse="Γαδαρ" end="α"/>
+  <l id="n21384" key="Γάδαρα" key2="Γάδαρα" gnt="ας" gnd="ὁ" dcl="1" bse="Γαδαρ" end="α"/>
   <l id="n21388" key="Γαδειτάνα" key2="Γαδειτάνα" gnt="ης" gnd="ἡ" dcl="1" bse="Γαδειταν" end="α"/>
   <l id="n21401" key="γαῖα" key2="γαῖα" gnt="ας" gnd="ἡ" dcl="1" bse="γαι" end="α"/>
   <l id="n21415" key="γαιομέτρης" key2="γαιομέτρης" gnt="ου" gnd="ὁ" dcl="1" bse="γαιομετρ" end="ης"/>
@@ -10217,7 +10213,6 @@
   <l id="n23675" key="δείλη" key2="δείλη" gnt="ης" gnd="ἡ" dcl="1" bse="δειλ" end="η"/>
   <l id="n23678" key="δειλία" key2="δειλία" gnt="ας" gnd="ἡ" dcl="1" bse="δειλι" end="α"/>
   <l id="n23698" key="δειματίας" key2="δειματίας" gnt="ου" gnd="ὁ" dcl="1" bse="δειματι" end="ας"/>
-  <l id="n23708" key="δεῖνα" key2="δεῖνα" gnt="ης" gnd="ἡ" dcl="1" bse="δειν" end="α"/>
   <l id="n23712" key="δεινοβίης" key2="δεινοβίης" gnt="ου" gnd="ὁ" dcl="1" bse="δεινοβι" end="ης"/>
   <l id="n23714" key="δεινοθέτης" key2="δεινοθέτης" gnt="ου" gnd="ὁ" dcl="1" bse="δεινοθετ" end="ης"/>
   <l id="n23719" key="δεινολογία" key2="δεινολογία" gnt="ας" gnd="ἡ" dcl="1" bse="δεινολογι" end="α"/>
